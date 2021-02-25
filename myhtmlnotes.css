@@ -1,6 +1,8 @@
-#li1 {font-size: 40px margin: 25px}
+#li1 {font-size: 40px; margin: 25px}
 h1  {margin-top: 10px; margin-bottom: 40px}
-body {background-color: #ffbcab}
-body {font-size: 30px}
+body {background-color: #ffbcab; font-size: 30px}
 .music {display: flex; background-color: #f28563; width: 1000px; padding-top: 35px;}
 .musicli {padding-right: 100px;}
+#p.img {text-align: left;}
+.markup {text-align: center;}
+a:link {color: salmon;}
